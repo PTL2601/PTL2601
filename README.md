@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=vibe+of+a+beginner+developer)](https://git.io/typing-svg)
-<img src="header2.png" alt="Привет!">
+<img src="header3.png" alt="Привет!">
 
 ###
 
